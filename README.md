@@ -1,4 +1,4 @@
-# Análisis mercado automovilístico
+# Análisis mercado automovilístico español
 
 El sector automovilístico español está atravesando un proceso de transformación impulsado por la transición hacia energías alternativas, cambios regulatorios y medioambientales, evolución de la demanda del consumidor, envejecimiento del parque automovilístico, entre otras.
 
@@ -65,3 +65,21 @@ Se observa un cambio estructural en el mix de combustibles:
   - Estabilización y posterior descenso de la gasolina
   - Crecimiento sostenido de tecnologías electrificadas
   - Esto refleja un cambio en el comportamiento del consumidor y la presión regulatoria hacia movilidad sostenible.
+
+### Renovación del parque automovilístico
+
+El ratio estimado de renovación muestra una desaceleración en los últimos años, lo que sugiere:
+  
+  - Mayor envejecimiento del parque
+  - Potencial aumento en costes de mantenimiento
+  - Oportunidades de crecimiento para modelos de renting y suscripción
+
+### Implicaciones estratégicas
+
+Este análisis sugiere que:
+
+  - Existe una clara oportunidad de crecimiento en vehículos electrificados
+  - El envejecimiento del parque puede impulsar soluciones de movilidad flexible
+  - Las empresas del sector deben adaptarse a un mercado cada vez más orientado a sostenibilidad
+
+
